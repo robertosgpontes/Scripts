@@ -12,9 +12,6 @@
 ### 	https://www.learnopencv.com/install-opencv3-on-ubuntu/			  	             	###
 ###########################################################################################################
 
-##Tested in Ubuntu 17.10 and OpenCV3.4.0 maker with Python3.6 
-
-
 cd ~/Downloads
 
 ##################### Dependencies
