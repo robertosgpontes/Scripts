@@ -1,11 +1,16 @@
 #!/bin/bash
 
-################################################################################
-###                       OpenCV3 Installation Script                        ###
-###
-###
-### Created By: Roberto Pontes
-################################################################################
+###########################################################################################################
+###                       		OpenCV3 Installation Script                                     ###
+###                                                                          				###
+###                                                                         				###
+### Created By: Roberto Pontes                                               				###
+### Tested in Ubuntu 17.10 and OpenCV3.4.0 maker with Python3.6              				###
+### References: 											###
+###	https://docs.opencv.org/3.4.0/d7/d9f/tutorial_linux_install.html				###
+###     https://www.pyimagesearch.com/2015/07/20/install-opencv-3-0-and-python-3-4-on-ubuntu/		###
+### 	https://www.learnopencv.com/install-opencv3-on-ubuntu/			  	             	###
+###########################################################################################################
 
 ##Tested in Ubuntu 17.10 and OpenCV3.4.0 maker with Python3.6 
 
