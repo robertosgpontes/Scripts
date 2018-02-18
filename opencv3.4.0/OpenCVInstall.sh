@@ -50,17 +50,17 @@ sudo apt-get install -y build-essential cmake qt5-default \
 
 wget https://bootstrap.pypa.io/get-pip.py
 
-sudo python3 get-pip.py
+sudo -H python3 get-pip.py
 
 rm -Rf get-pip.py
 
-sudo pip3 install --upgrade pip
+sudo -H pip3 install --upgrade pip
 
-sudo pip3 install dev
+sudo -H pip3 install dev
 
-sudo pip3 install numpy 
+sudo -H pip3 install numpy 
 
-sudo pip3 install jinja2
+sudo -H pip3 install jinja2
 
 
 ##################### Download OpenCV
